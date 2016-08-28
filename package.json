@@ -1,0 +1,19 @@
+{
+  "name": "stock",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "www.github.com/wdppt"
+  },
+  "author": "Curtis Wang",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.74.0",
+    "gulp": "~3.9.1"
+  }
+}
